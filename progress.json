@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-26T04:44:39.459Z",
+  "generated_at": "2026-10-26T04:46:17.314Z",
   "items": {
     "problem:14": {
       "kind": "problem",
@@ -13,6 +13,58 @@
       "last_pushed_at": "2026-10-26T04:44:33.902Z",
       "language": "python",
       "lines": 10
+    },
+    "problem:1": {
+      "kind": "problem",
+      "id": "1",
+      "title": "Matrix-Vector Dot Product",
+      "difficulty": "easy",
+      "category": "Linear Algebra",
+      "url": "https://www.deep-ml.com/problems/1",
+      "path": "problems/0001-matrix-vector-dot-product",
+      "first_solved_at": "2026-10-25T10:24:34.573Z",
+      "last_pushed_at": "2026-10-25T10:24:34.573Z",
+      "language": "python",
+      "lines": 15
+    },
+    "problem:2": {
+      "kind": "problem",
+      "id": "2",
+      "title": "Transpose of a Matrix",
+      "difficulty": "easy",
+      "category": "Linear Algebra",
+      "url": "https://www.deep-ml.com/problems/2",
+      "path": "problems/0002-transpose-of-a-matrix",
+      "first_solved_at": "2026-10-25T10:30:51.338Z",
+      "last_pushed_at": "2026-10-25T10:30:51.338Z",
+      "language": "python",
+      "lines": 12
+    },
+    "problem:4": {
+      "kind": "problem",
+      "id": "4",
+      "title": "Calculate Mean by Row or Column",
+      "difficulty": "easy",
+      "category": "Linear Algebra",
+      "url": "https://www.deep-ml.com/problems/4",
+      "path": "problems/0004-calculate-mean-by-row-or-column",
+      "first_solved_at": "2026-10-25T10:48:06.929Z",
+      "last_pushed_at": "2026-10-25T10:48:06.929Z",
+      "language": "python",
+      "lines": 22
+    },
+    "problem:5": {
+      "kind": "problem",
+      "id": "5",
+      "title": "Scalar Multiplication of a Matrix",
+      "difficulty": "easy",
+      "category": "Linear Algebra",
+      "url": "https://www.deep-ml.com/problems/5",
+      "path": "problems/0005-scalar-multiplication-of-a-matrix",
+      "first_solved_at": "2026-10-25T10:50:06.769Z",
+      "last_pushed_at": "2026-10-25T10:50:06.769Z",
+      "language": "python",
+      "lines": 12
     }
   }
 }
