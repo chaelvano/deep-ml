@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-26T09:39:22.829Z",
+  "generated_at": "2026-10-26T09:52:40.542Z",
   "items": {
     "problem:14": {
       "kind": "problem",
@@ -208,6 +208,19 @@
       "last_pushed_at": "2026-10-26T09:39:20.408Z",
       "language": "python",
       "lines": 52
+    },
+    "problem:1203": {
+      "kind": "problem",
+      "id": "1203",
+      "title": "Scalar Multiply (a * x)",
+      "difficulty": "easy",
+      "category": "Cuda",
+      "url": "https://www.deep-ml.com/problems/1203",
+      "path": "problems/1203-scalar-multiply-a-x",
+      "first_solved_at": "2026-10-26T09:52:38.391Z",
+      "last_pushed_at": "2026-10-26T09:52:38.391Z",
+      "language": "python",
+      "lines": 42
     }
   }
 }
