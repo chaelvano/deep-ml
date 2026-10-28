@@ -2,7 +2,7 @@
 
 My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solution here was written by hand.
 
-**35** solved · 31 problems · 0 labs · 4 math
+**36** solved · 32 problems · 0 labs · 4 math
 
 ![Coverage](./coverage.svg)
 
@@ -18,6 +18,7 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 | [Calculate Mean by Row or Column](https://www.deep-ml.com/problems/4) | easy | 2026-10-25 | [solution](problems/0004-calculate-mean-by-row-or-column) |
 | [Compute Multi-class Cross-Entropy Loss](https://www.deep-ml.com/problems/134) | easy | 2026-10-26 | [solution](problems/0134-compute-multi-class-cross-entropy-loss) |
 | [Convert Vector to Diagonal Matrix](https://www.deep-ml.com/problems/35) | easy | 2026-10-28 | [solution](problems/0035-convert-vector-to-diagonal-matrix) |
+| [Create a Float Tensor from a Python List](https://www.deep-ml.com/problems/880) | easy | 2026-10-28 | [solution](problems/0880-create-a-float-tensor-from-a-python-list) |
 | [Derivatives of Activation Functions](https://www.deep-ml.com/problems/217) | easy | 2026-10-26 | [solution](problems/0217-derivatives-of-activation-functions) |
 | [Feature Scaling Implementation](https://www.deep-ml.com/problems/16) | easy | 2026-10-26 | [solution](problems/0016-feature-scaling-implementation) |
 | [Implement Precision Metric](https://www.deep-ml.com/problems/46) | easy | 2026-10-28 | [solution](problems/0046-implement-precision-metric) |
