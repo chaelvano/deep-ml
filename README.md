@@ -2,7 +2,7 @@
 
 My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solution here was written by hand.
 
-**56** solved · 45 problems · 0 labs · 11 math
+**57** solved · 46 problems · 0 labs · 11 math
 
 ![Coverage](./coverage.svg)
 
@@ -52,6 +52,7 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 | [Transpose of a Matrix](https://www.deep-ml.com/problems/2) | easy | 2026-10-25 | [solution](problems/0002-transpose-of-a-matrix) |
 | [Vector Addition](https://www.deep-ml.com/problems/1202) | easy | 2026-10-26 | [solution](problems/1202-vector-addition) |
 | [Vector Element-wise Sum](https://www.deep-ml.com/problems/121) | easy | 2026-10-29 | [solution](problems/0121-vector-element-wise-sum) |
+| [Vector Norms (L1/L2/L-inf) and the Frobenius Norm](https://www.deep-ml.com/problems/328) | easy | 2026-10-29 | [solution](problems/0328-vector-norms-l1-l2-l-inf-and-the-frobenius-norm) |
 | [Your First CUDA Kernel: Thread Index](https://www.deep-ml.com/problems/1201) | easy | 2026-10-26 | [solution](problems/1201-your-first-cuda-kernel-thread-index) |
 | [Binary Cross-Entropy from Logits](https://www.deep-ml.com/problems/1229) | medium | 2026-10-29 | [solution](problems/1229-binary-cross-entropy-from-logits) |
 | [Derivative of Softmax](https://www.deep-ml.com/problems/219) | medium | 2026-10-28 | [solution](problems/0219-derivative-of-softmax) |
