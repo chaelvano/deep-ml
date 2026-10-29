@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-29T06:59:29.607Z",
+  "generated_at": "2026-10-29T08:47:14.445Z",
   "items": {
     "problem:14": {
       "kind": "problem",
@@ -543,6 +543,19 @@
       "path": "math/0141-gradient-of-a-weight-shared-across-passes",
       "first_solved_at": "2026-10-29T06:59:27.909Z",
       "last_pushed_at": "2026-10-29T06:59:27.909Z"
+    },
+    "problem:884": {
+      "kind": "problem",
+      "id": "884",
+      "title": "Compute a Gradient with PyTorch Autograd",
+      "difficulty": "easy",
+      "category": "Pytorch",
+      "url": "https://www.deep-ml.com/problems/884",
+      "path": "problems/0884-compute-a-gradient-with-pytorch-autograd",
+      "first_solved_at": "2026-10-29T08:47:12.598Z",
+      "last_pushed_at": "2026-10-29T08:47:12.598Z",
+      "language": "python",
+      "lines": 10
     }
   }
 }
