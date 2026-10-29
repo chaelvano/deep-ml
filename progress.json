@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-29T05:20:47.830Z",
+  "generated_at": "2026-10-29T05:43:20.851Z",
   "items": {
     "problem:14": {
       "kind": "problem",
@@ -482,6 +482,17 @@
       "path": "math/0004-backpropagation-and-the-chain-rule",
       "first_solved_at": "2026-10-29T05:20:46.413Z",
       "last_pushed_at": "2026-10-29T05:20:46.413Z"
+    },
+    "math:2": {
+      "kind": "math",
+      "id": "2",
+      "title": "Multivariate Calculus",
+      "difficulty": "medium",
+      "category": "Calculus for Machine Learning",
+      "url": "https://www.deep-ml.com/math-problems/2",
+      "path": "math/0002-multivariate-calculus",
+      "first_solved_at": "2026-10-29T05:43:19.147Z",
+      "last_pushed_at": "2026-10-29T05:43:19.147Z"
     }
   }
 }
