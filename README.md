@@ -2,7 +2,7 @@
 
 My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solution here was written by hand.
 
-**45** solved · 37 problems · 0 labs · 8 math
+**46** solved · 38 problems · 0 labs · 8 math
 
 ![Coverage](./coverage.svg)
 
@@ -49,6 +49,7 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 | [Vector Addition](https://www.deep-ml.com/problems/1202) | easy | 2026-10-26 | [solution](problems/1202-vector-addition) |
 | [Your First CUDA Kernel: Thread Index](https://www.deep-ml.com/problems/1201) | easy | 2026-10-26 | [solution](problems/1201-your-first-cuda-kernel-thread-index) |
 | [Derivative of Softmax](https://www.deep-ml.com/problems/219) | medium | 2026-10-28 | [solution](problems/0219-derivative-of-softmax) |
+| [Two-Layer MLP Forward Pass](https://www.deep-ml.com/problems/1225) | medium | 2026-10-29 | [solution](problems/1225-two-layer-mlp-forward-pass) |
 
 ## Math
 
