@@ -2,7 +2,7 @@
 
 My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solution here was written by hand.
 
-**65** solved · 52 problems · 0 labs · 13 math
+**66** solved · 52 problems · 0 labs · 14 math
 
 ![Coverage](./coverage.svg)
 
@@ -74,6 +74,7 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 | [Matrix Basics](https://www.deep-ml.com/math-problems/9) | easy | 2026-10-30 | [solution](math/0009-matrix-basics) |
 | [Vector Operations](https://www.deep-ml.com/math-problems/7) | easy | 2026-10-29 | [solution](math/0007-vector-operations) |
 | [Backpropagation and the Chain Rule](https://www.deep-ml.com/math-problems/4) | medium | 2026-10-29 | [solution](math/0004-backpropagation-and-the-chain-rule) |
+| [Determinants and Trace](https://www.deep-ml.com/math-problems/11) | medium | 2026-10-31 | [solution](math/0011-determinants-and-trace) |
 | [Gradient of a Weight Shared Across Passes](https://www.deep-ml.com/math-problems/141) | medium | 2026-10-29 | [solution](math/0141-gradient-of-a-weight-shared-across-passes) |
 | [Log-Likelihood Gradients](https://www.deep-ml.com/math-problems/38) | medium | 2026-10-26 | [solution](math/0038-log-likelihood-gradients) |
 | [Matrix Calculus Identities](https://www.deep-ml.com/math-problems/35) | medium | 2026-10-29 | [solution](math/0035-matrix-calculus-identities) |
