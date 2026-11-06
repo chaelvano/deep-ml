@@ -8,19 +8,12 @@ def train_neuron(features: np.ndarray, labels: np.ndarray, initial_weights: np.n
 	mse_values = np.zeros(epochs)
 
 	for e in range(epochs):
-		weights_d_mse = np.zeros(updated_weights.shape[0])
-		bias_d_mse = 0
+		z = np.dot(features, updated_weights) + updated_bias
+		sigmoid = 1 / (1 + np.exp(-z))
+		error = sigmoid - labels
 
-		for i in range(n):
-			z = sum(w * x for w, x in zip(updated_weights, features[i])) + updated_bias
-			activation = 1 / (1 + np.exp(-z))
-			d_activation = activation * (1 - activation)
-			error = activation - labels[i]
-			weights_d_mse += 2 * error * d_activation * features[i] / n 
-			bias_d_mse += 2 * error * d_activation / n 
-			mse_values[e] += np.square(error) / n
-
-		updated_weights -= learning_rate * weights_d_mse
-		updated_bias -= learning_rate * bias_d_mse
+		updated_weights -= learning_rate * 2 * np.dot(features.T, error * sigmoid * (1 - sigmoid)) / n
+		updated_bias -= learning_rate * 2 * np.sum(error * sigmoid * (1 - sigmoid)) / n
+		mse_values[e] = np.sum(np.square(error)) / n
 
 	return updated_weights, updated_bias, mse_values
