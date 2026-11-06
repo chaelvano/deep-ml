@@ -2,7 +2,7 @@
 
 My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solution here was written by hand.
 
-**75** solved · 58 problems · 0 labs · 17 math
+**76** solved · 59 problems · 0 labs · 17 math
 
 ![Coverage](./coverage.svg)
 
@@ -70,6 +70,7 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 | [Tiled Matrix Multiply CUDA Kernel](https://www.deep-ml.com/problems/1187) | medium | 2026-10-29 | [solution](problems/1187-tiled-matrix-multiply-cuda-kernel) |
 | [Two-Layer MLP Forward Pass](https://www.deep-ml.com/problems/1225) | medium | 2026-10-29 | [solution](problems/1225-two-layer-mlp-forward-pass) |
 | [Determinant of a 4x4 Matrix using Laplace's Expansion (hard)](https://www.deep-ml.com/problems/13) | hard | 2026-11-02 | [solution](problems/0013-determinant-of-a-4x4-matrix-using-laplace-s-expansion-hard) |
+| [Implementing a Custom Dense Layer in Python](https://www.deep-ml.com/problems/40) | hard | 2026-11-06 | [solution](problems/0040-implementing-a-custom-dense-layer-in-python) |
 
 ## Math
 
