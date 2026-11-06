@@ -14,7 +14,6 @@ def train_neuron(features: np.ndarray, labels: np.ndarray, initial_weights: np.n
 		for i in range(n):
 			z = sum(w * x for w, x in zip(updated_weights, features[i])) + updated_bias
 			activation = 1 / (1 + np.exp(-z))
-
 			d_activation = activation * (1 - activation)
 			error = activation - labels[i]
 			weights_d_mse += 2 * error * d_activation * features[i] / n 
