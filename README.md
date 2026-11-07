@@ -2,7 +2,7 @@
 
 My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solution here was written by hand.
 
-**84** solved · 64 problems · 0 labs · 20 math
+**85** solved · 65 problems · 0 labs · 20 math
 
 ![Coverage](./coverage.svg)
 
@@ -53,6 +53,7 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 | [ReLU Activation](https://www.deep-ml.com/problems/1204) | easy | 2026-10-26 | [solution](problems/1204-relu-activation) |
 | [Reshape and Transpose a Tensor](https://www.deep-ml.com/problems/881) | easy | 2026-10-29 | [solution](problems/0881-reshape-and-transpose-a-tensor) |
 | [Reshape Matrix](https://www.deep-ml.com/problems/3) | easy | 2026-10-29 | [solution](problems/0003-reshape-matrix) |
+| [Run One Training Step: Forward, Loss, Backward, Optimizer](https://www.deep-ml.com/problems/886) | easy | 2026-11-07 | [solution](problems/0886-run-one-training-step-forward-loss-backward-optimizer) |
 | [Scalar Multiplication of a Matrix](https://www.deep-ml.com/problems/5) | easy | 2026-10-25 | [solution](problems/0005-scalar-multiplication-of-a-matrix) |
 | [Scalar Multiply (a * x)](https://www.deep-ml.com/problems/1203) | easy | 2026-10-26 | [solution](problems/1203-scalar-multiply-a-x) |
 | [Sigmoid Activation Function Understanding](https://www.deep-ml.com/problems/22) | easy | 2026-10-26 | [solution](problems/0022-sigmoid-activation-function-understanding) |
