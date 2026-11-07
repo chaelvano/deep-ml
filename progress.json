@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-07T07:19:45.089Z",
+  "generated_at": "2026-11-07T10:45:50.460Z",
   "items": {
     "problem:14": {
       "kind": "problem",
@@ -1089,6 +1089,19 @@
       "path": "math/0014-orthogonality-and-projections",
       "first_solved_at": "2026-11-07T07:19:43.330Z",
       "last_pushed_at": "2026-11-07T07:19:43.330Z"
+    },
+    "problem:26": {
+      "kind": "problem",
+      "id": "26",
+      "title": "Implementing Basic Autograd Operations",
+      "difficulty": "medium",
+      "category": "Deep Learning",
+      "url": "https://www.deep-ml.com/problems/26",
+      "path": "problems/0026-implementing-basic-autograd-operations",
+      "first_solved_at": "2026-11-07T10:45:49.871Z",
+      "last_pushed_at": "2026-11-07T10:45:49.871Z",
+      "language": "python",
+      "lines": 80
     }
   }
 }
