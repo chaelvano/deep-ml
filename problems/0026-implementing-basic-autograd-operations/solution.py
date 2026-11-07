@@ -27,7 +27,6 @@ class Value:
 
 		return parent
 
-
 	def __mul__(self, other):
 		# Implement multiplication here
 		if not isinstance(other, Value):
