@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-08T03:35:45.245Z",
+  "generated_at": "2026-11-08T09:49:04.854Z",
   "items": {
     "problem:14": {
       "kind": "problem",
@@ -1174,6 +1174,19 @@
       "path": "math/0024-information-theory-entropy",
       "first_solved_at": "2026-11-08T03:35:42.366Z",
       "last_pushed_at": "2026-11-08T03:35:42.366Z"
+    },
+    "problem:61": {
+      "kind": "problem",
+      "id": "61",
+      "title": "Implement F-Score Calculation for Binary Classification",
+      "difficulty": "easy",
+      "category": "Machine Learning",
+      "url": "https://www.deep-ml.com/problems/61",
+      "path": "problems/0061-implement-f-score-calculation-for-binary-classification",
+      "first_solved_at": "2026-11-08T09:49:01.709Z",
+      "last_pushed_at": "2026-11-08T09:49:01.709Z",
+      "language": "python",
+      "lines": 23
     }
   }
 }
