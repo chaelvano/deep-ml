@@ -9,13 +9,19 @@ def f_score(y_true, y_pred, beta):
 	:param beta: The weight of precision in the harmonic mean
 	:return: F-Score rounded to three decimal places
 	"""
-	tp = sum(1 if p == 1 and p == l else 0 for p, l in zip(y_pred, y_true))
-	fp = sum(1 if p == 1 and p != l else 0 for p, l in zip(y_pred, y_true))
-	fn = sum(1 if p == 0 and p != l else 0 for p, l in zip(y_pred, y_true))
+	y_true = np.asarray(y_true)
+    y_pred = np.asarray(y_pred)
 
-	precision = tp / (tp + fp)
-	recall = tp / (tp + fn)
+	tp = np.sum((y_pred == 1) & (y_true == 1))
+    fp = np.sum((y_pred == 1) & (y_true == 0))
+    fn = np.sum((y_pred == 0) & (y_true == 1))
 
-	f_beta = (1 + beta ** 2) * precision * recall / (beta ** 2 * precision + recall)
+    precision = tp / (tp + fp) if (tp + fp) > 0 else 0.0
+    recall    = tp / (tp + fn) if (tp + fn) > 0 else 0.0
 
-	return round(f_beta, 3)
+    denominator = beta ** 2 * precision + recall
+    
+	if denominator == 0:
+    	return 0.000
+
+    return round((1 + beta ** 2) * precision * recall / denominator, 3)
