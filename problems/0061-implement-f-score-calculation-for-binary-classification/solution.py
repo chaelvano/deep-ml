@@ -9,7 +9,6 @@ def f_score(y_true, y_pred, beta):
 	:param beta: The weight of precision in the harmonic mean
 	:return: F-Score rounded to three decimal places
 	"""
-	# 2TP / (2TP + FP + FN)
 	tp = sum(1 if p == 1 and p == l else 0 for p, l in zip(y_pred, y_true))
 	fp = sum(1 if p == 1 and p != l else 0 for p, l in zip(y_pred, y_true))
 	fn = sum(1 if p == 0 and p != l else 0 for p, l in zip(y_pred, y_true))
