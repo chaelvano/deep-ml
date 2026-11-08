@@ -2,7 +2,7 @@
 
 My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solution here was written by hand.
 
-**105** solved · 81 problems · 0 labs · 24 math
+**106** solved · 82 problems · 0 labs · 24 math
 
 ![Coverage](./coverage.svg)
 
@@ -51,6 +51,7 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 | [Implement the Hard Sigmoid Activation Function](https://www.deep-ml.com/problems/96) | easy | 2026-11-08 | [solution](problems/0096-implement-the-hard-sigmoid-activation-function) |
 | [Implement the Softplus Activation Function](https://www.deep-ml.com/problems/99) | easy | 2026-11-08 | [solution](problems/0099-implement-the-softplus-activation-function) |
 | [Implement the Softsign Activation Function](https://www.deep-ml.com/problems/100) | easy | 2026-11-08 | [solution](problems/0100-implement-the-softsign-activation-function) |
+| [Implement the Swish Activation Function](https://www.deep-ml.com/problems/102) | easy | 2026-11-08 | [solution](problems/0102-implement-the-swish-activation-function) |
 | [Implementation of Log Softmax Function](https://www.deep-ml.com/problems/39) | easy | 2026-10-26 | [solution](problems/0039-implementation-of-log-softmax-function) |
 | [L2 Normalization Along an Axis](https://www.deep-ml.com/problems/1022) | easy | 2026-10-29 | [solution](problems/1022-l2-normalization-along-an-axis) |
 | [Leaky ReLU Activation Function](https://www.deep-ml.com/problems/44) | easy | 2026-10-26 | [solution](problems/0044-leaky-relu-activation-function) |
