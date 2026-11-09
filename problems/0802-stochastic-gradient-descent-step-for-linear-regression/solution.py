@@ -23,5 +23,3 @@ def sgd_update(X: np.ndarray, y: np.ndarray, weights: np.ndarray, learning_rate:
         weights -= learning_rate * grad
 
     return weights.tolist()
-
-        
