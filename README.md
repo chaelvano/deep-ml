@@ -2,7 +2,7 @@
 
 My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solution here was written by hand.
 
-**112** solved · 86 problems · 0 labs · 26 math
+**113** solved · 87 problems · 0 labs · 26 math
 
 ![Coverage](./coverage.svg)
 
@@ -87,6 +87,7 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 | [Calculate Eigenvalues of a Matrix](https://www.deep-ml.com/problems/6) | medium | 2026-11-02 | [solution](problems/0006-calculate-eigenvalues-of-a-matrix) |
 | [Derivative of Softmax](https://www.deep-ml.com/problems/219) | medium | 2026-10-28 | [solution](problems/0219-derivative-of-softmax) |
 | [Find Captain Redbeard's Hidden Treasure](https://www.deep-ml.com/problems/127) | medium | 2026-11-03 | [solution](problems/0127-find-captain-redbeard-s-hidden-treasure) |
+| [Implement Gradient Descent Variants with MSE Loss](https://www.deep-ml.com/problems/47) | medium | 2026-11-14 | [solution](problems/0047-implement-gradient-descent-variants-with-mse-loss) |
 | [Implementing Basic Autograd Operations](https://www.deep-ml.com/problems/26) | medium | 2026-11-07 | [solution](problems/0026-implementing-basic-autograd-operations) |
 | [Numerically Stable Softmax](https://www.deep-ml.com/problems/1227) | medium | 2026-10-29 | [solution](problems/1227-numerically-stable-softmax) |
 | [Parallel Reduction (Block Sum) CUDA Kernel](https://www.deep-ml.com/problems/1189) | medium | 2026-11-03 | [solution](problems/1189-parallel-reduction-block-sum-cuda-kernel) |
